@@ -39,7 +39,7 @@ Developing robust perception systems for autonomous parking requires large-scale
 
 This project proposes an **automated synthetic data generation framework** using Blender to simulate underground parking environments. The system enables large-scale generation of high-quality training data with precise annotations, while supporting extensive customization of parking layouts, vehicles, lighting conditions, and object styles. By relying entirely on virtual simulation, the pipeline removes the dependency on real-world data acquisition.
 
-Experimental results reported in the paper demonstrate that perception models trained on the generated synthetic datasets achieve strong performance in automatic parking tasks. To encourage reproducibility and further research, the scene library, dataset, and generation code are released as open source.
+Experimental results reported in the paper demonstrate that perception models trained on the generated synthetic datasets achieve strong performance in automatic parking tasks. To encourage reproducibility and further research, the scene libraryand and dataset are released as open source.
 
 ---
 
@@ -67,7 +67,10 @@ The dataset of synthetic underground parking datasets are accessible for downloa
 - Suitable for training perception models in autonomous parking systems
 
 ---
-
+## TODO list:
+- [ ] update the arxiv link
+- [ ] release more preprocessed dataset and the pretrained model (coming soon)
+- [ ] release the code of the processing
 
 ---
 
