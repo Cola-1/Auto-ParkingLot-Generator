@@ -1,7 +1,7 @@
 # Automated Generation of Parking Data Sets for Underground Car Parks
 
 <p align="center">
-  <img src="assets/parking_teaser.png" alt="Parking Dataset Teaser" width="70%">
+  <img src="assets/1.png" alt="Parking Dataset Teaser" width="90%">
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 This repository provides the **open-source scene library, dataset, and generation pipeline** introduced in the paper:
 
 **Automated Generation of Parking Data Sets for Underground Car Parks**  
-SAE Technical Paper 2025-01-7191  
-https://saemobilus.sae.org/papers/automated-generation-parking-data-sets-underground-car-parks-2025-01-7191
+📄 [paper](https://saemobilus.sae.org/papers/automated-generation-parking-data-sets-underground-car-parks-2025-01-7191) 
+
 
 ---
 
@@ -51,7 +51,7 @@ Provide unlimited and diversified data for AI learning through a customizable da
 This project is primarily designed for **AI trainers, researchers, and developers** working on autonomous driving and parking perception systems.
 
 **Download Link:**  
-https://drive.google.com/file/d/1vCmuT-fqzME2EmJ8IQdTbZcGJRK32Bpi/view?usp=sharing
+The dataset of synthetic underground parking datasets are accessible for download via the [Dataset Link](https://drive.google.com/file/d/1vCmuT-fqzME2EmJ8IQdTbZcGJRK32Bpi/view?usp=sharing)
 
 ---
 
@@ -64,13 +64,6 @@ https://drive.google.com/file/d/1vCmuT-fqzME2EmJ8IQdTbZcGJRK32Bpi/view?usp=shari
 
 ---
 
-## 🔗 Links
-
-- **SAE Paper:**  
-  https://doi.org/10.4271/2025-01-7191
-
-- **Related Code Repository:**  
-  https://github.com/Snyard/parkinglot-generator
 
 ---
 
