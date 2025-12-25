@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  || <a href="https://saemobilus.sae.org/papers/automated-generation-parking-data-sets-underground-car-parks-2025-01-7191">Paper</a>
+  <a href="https://saemobilus.sae.org/papers/automated-generation-parking-data-sets-underground-car-parks-2025-01-7191">Paper</a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 </p>
 This repository provides the **open-source scene library, dataset, and generation pipeline** introduced in the paper:
 
-**Automated Generation of Parking Data Sets for Underground Car Parks**  
-📄 [paper](https://saemobilus.sae.org/papers/automated-generation-parking-data-sets-underground-car-parks-2025-01-7191) 
+
+📄 [Automated Generation of Parking Data Sets for Underground Car Parks](https://saemobilus.sae.org/papers/automated-generation-parking-data-sets-underground-car-parks-2025-01-7191) 
 
 
 ---
