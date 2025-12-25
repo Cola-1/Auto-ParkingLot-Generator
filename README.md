@@ -1,8 +1,5 @@
 # Automated Generation of Parking Data Sets for Underground Car Parks
 
-<p align="center">
-  <img src="assets/1.png" alt="Parking Dataset Teaser" width="90%">
-</p>
 
 <p align="center">
   <strong>
@@ -10,6 +7,13 @@
   </strong>
 </p>
 
+<p align="center">
+  || <a href="https://saemobilus.sae.org/papers/automated-generation-parking-data-sets-underground-car-parks-2025-01-7191">Paper</a>
+</p>
+
+<p align="center">
+  <img src="asset/1.png" alt="Parking Dataset Teaser" width="90%">
+</p>
 This repository provides the **open-source scene library, dataset, and generation pipeline** introduced in the paper:
 
 **Automated Generation of Parking Data Sets for Underground Car Parks**  
